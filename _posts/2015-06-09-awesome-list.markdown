@@ -50,13 +50,13 @@ It introduces new programming languages, people, stuff to your life.
 
 
 ## Project
-[Rocket.Chat] (https://github.com/RocketChat/Rocket.Chat)
+[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
 
 Slack like chat, but open source
 
 
 ## Debug
-[Vdebug] (https://github.com/joonty/vdebug)
+[Vdebug](https://github.com/joonty/vdebug)
 
 Debugger for PHP with Vim
 
