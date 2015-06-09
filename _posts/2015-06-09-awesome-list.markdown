@@ -11,6 +11,7 @@ categories: misc
 
 ## TV shows 
 [電車男Deluxe最後的聖戰(上)](https://www.youtube.com/watch?v=qotbx7rrgi0)
+
 [電車男 Deluxe 最後的聖戰(下)](https://www.youtube.com/watch?v=pX0wHDSffO8`) 
 
 Densha Otoko (電車男, translated as Train Man) is a Japanese movie, television series, manga, novel, and other media, all based on the purportedly true story of a 23-year-old otaku who intervened when a drunk man started to harass several women on a train. The otaku ultimately begins dating one of the women.
