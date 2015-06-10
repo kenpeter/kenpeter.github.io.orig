@@ -2,6 +2,7 @@
 layout: post
 title:  "Awesome list"
 date:   2015-06-09 15:45:45
+comments: True
 categories: misc 
 ---
 
