@@ -8,5 +8,11 @@ url: "http://kenpeter.github.com" # the base hostname & protocol for your site
 twitter_username: kenpeter 
 github_username:  kenpeter
 
+pages_list:
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/atom.xml' 
+
+
 # Build settings
 markdown: kramdown
