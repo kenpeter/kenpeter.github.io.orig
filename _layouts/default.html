@@ -4,11 +4,12 @@
   {% include head.html %}
 
   <body>
-
     {% include header.html %}
 
     <div class="page-content">
       <div class="wrapper">
+        {% include simple_jekyll_search.html %}
+
         {{ content }}
 
         {% include comments.html %}
