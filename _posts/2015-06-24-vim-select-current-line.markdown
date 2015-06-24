@@ -6,7 +6,7 @@ comments: True
 categories: vim 
 ---
 
-Based on this post[http://stackoverflow.com/questions/18666376/vim-select-entire-line].
+Based on this [post](http://stackoverflow.com/questions/18666376/vim-select-entire-line).
 
 Capital `V` selects the current line in one key stroke; two, if you include the `"shift" in shift+v`.
 
