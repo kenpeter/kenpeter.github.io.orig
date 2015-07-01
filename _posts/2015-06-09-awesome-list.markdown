@@ -1,12 +1,24 @@
 ---
 layout: post
-title:  "Awesome list"
+title:  "Awesome list (continue to update)"
 date:   2015-06-09 15:45:45
-comments: True
+comments: true
+sticky: true
 categories: misc 
 ---
 
-## Game
+## Game walkthrough
+
+
+
+[Life is strange Ep1](https://www.youtube.com/watch?v=K8JPS7xDGFU)
+
+[Life is strange Ep2](https://www.youtube.com/watch?v=NNzyoWrYAtE)
+
+[Life is strange Ep3](https://www.youtube.com/watch?v=G4n3DH9R6_w)
+
+Life Is Strange is an episodic interactive drama graphic adventure video game developed by Dontnod Entertainment, and published by Square Enix. The game's plot focuses on Maxine Caulfield, a photography student who discovers that she has the ability to rewind time at any moment, leading her every choice to enact the butterfly effect. The game will consist of five episodes. With seven weeks between each episode, it released its first on 30 January 2015. Life Is Strange is available for Microsoft Windows, PlayStation 4, PlayStation 3, Xbox One and Xbox 360 via digital distribution.
+
 
 ## Movie
 
