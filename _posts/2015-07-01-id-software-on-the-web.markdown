@@ -12,3 +12,4 @@ to do that: [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gp
 ![pic][wappalyzer]
 
 [wappalyzer]: /images/wappalyzer.png
+
