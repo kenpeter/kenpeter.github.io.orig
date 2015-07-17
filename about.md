@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Will write something here.
+[https://au.linkedin.com/in/thegaryliang](https://au.linkedin.com/in/thegaryliang)
