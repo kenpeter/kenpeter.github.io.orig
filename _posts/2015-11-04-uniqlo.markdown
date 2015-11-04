@@ -1,0 +1,57 @@
+---
+layout: post
+title:  "http://www.uniqlo.com/au"
+date:   2015-11-04 22:53:45
+comments: true
+sticky: true
+categories: misc 
+---
+
+## What are uniqlo using?
+
+* Site: http://www.uniqlo.com/
+
+* CDN: https://www.akamai.com, company history, https://www.akamai.com/us/en/about/company-history.jsp
+
+* CMS: http://magento.com, Prototype.js, Varnish cache
+
+* Lightbox clone with media support: https://github.com/scaron/prettyphoto
+
+## Interesting things
+
+* It comments out the background light blue color: http://d2h2vnfmmg5sct.cloudfront.net/images/birthday_backgroundlighter1.png
+
+* So it has a news letter box, but it is hidden, see code below.
+
+* So it has own ticket system, "UQ ticket : UNSH-173". What is "UNSH"?
+
+```
+<!-- -----------the following block of code is commented based on the instruction in the release of this UQ ticket : UNSH-173
+ <div>
+           
+<div class="block block-subscribe">
+	 <div class="newsletter-detail-wrapper">
+     <form action="https://www.uniqlo.com/au/store/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
+        <div class="block-content">
+            <div class="form-subscribe-header">
+                <label for="newsletter">UNIQLO E-MEMBER</label>
+                <span>Be the first to know about new arrivals, special offers, in-store events and UNIQLO news.
+ </span>
+            </div>
+			<div class="nl-embut-wrap">
+				<div class="input-box">
+				   <input type="text" name="email" id="newsletter" title="Sign up for our newsletter" class="input-text required-entry validate-email" placeholder="Enter your email here" />
+				</div>
+				<div class="actions">
+					<button type="submit" title="Subscribe" class="button" id="subscribe"><span><span>Subscribe</span></span></button>
+				</div>
+			</div>
+        </div>
+    </form>
+	</div>
+</div>
+ 
+   </div>
+```
+
+
