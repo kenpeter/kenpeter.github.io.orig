@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "http://www.uniqlo.com/au"
+title:  "Dig into uniqlo website"
 date:   2015-11-04 22:53:45
 comments: true
 sticky: true
@@ -25,7 +25,7 @@ categories: misc
 
 * So it has own ticket system, "UQ ticket : UNSH-173". What is "UNSH"?
 
-```
+
 <!-- -----------the following block of code is commented based on the instruction in the release of this UQ ticket : UNSH-173
  <div>
            
@@ -52,6 +52,6 @@ categories: misc
 </div>
  
    </div>
-```
+
 
 
