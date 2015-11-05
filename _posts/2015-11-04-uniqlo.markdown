@@ -14,6 +14,7 @@ NOTE, this doesn't mean to embarrass anyone, but it is more like a treasure hunt
 ### Site
 http://www.uniqlo.com/au
 
+![alt text][uniqlo_au]
 
 ### Tech stack
 * CDN: https://www.akamai.com, company history, https://www.akamai.com/us/en/about/company-history.jsp
@@ -24,14 +25,15 @@ http://www.uniqlo.com/au
 
 
 ### Interesting things
-
-* It comments out the background light blue color: http://d2h2vnfmmg5sct.cloudfront.net/images/birthday_backgroundlighter1.png
-
-* So it has a news letter box, but it is hidden, see code below.
-
 * There is a comment: "the following block of code is commented based on the instruction in the release of this UQ ticket : UNSH-173". It has own ticket system, "UQ ticket : UNSH-173". What is "UNSH"?
-
-* Hide this form action="https://www.uniqlo.com/au/store/newsletter/subscriber/new/"
 
 * There is a page called special-ajax-page.js. "added by mahendra for validation effect 28 July 2015, script.aculo.us effects.js v1.8.2", so there is a developer called mahendra in uniqlo.
 
+* So the delivery service is in provision.
+
+![alt text][uniqlo_hidden_delivery]
+
+
+
+[uniqlo_au]: /images/uniqlo_au.png
+[uniqlo_hidden_delivery]: /images/uniqlo_hidden_delivery.png
