@@ -12,7 +12,6 @@ NOTE, this doesn't mean to embarrass anyone, but it is more like a treasure hunt
 ### The rmit training website
 https://www.rmittraining.com
 
-![alt text][uniqlo_au]
 
 ### Tech stack
 * Drupal 7
