@@ -7,17 +7,23 @@ sticky: true
 categories: misc 
 ---
 
-## What are uniqlo using?
+## The uniqlo website
 
-* Site: http://www.uniqlo.com/
+NOTE, this doesn't mean to embarrass anyone, but it is more like a treasure hunting game for me.
 
+### Site
+http://www.uniqlo.com/au
+
+
+### Tech stack
 * CDN: https://www.akamai.com, company history, https://www.akamai.com/us/en/about/company-history.jsp
 
 * CMS: http://magento.com, Prototype.js, Varnish cache
 
 * Lightbox clone with media support: https://github.com/scaron/prettyphoto
 
-## Interesting things
+
+### Interesting things
 
 * It comments out the background light blue color: http://d2h2vnfmmg5sct.cloudfront.net/images/birthday_backgroundlighter1.png
 
