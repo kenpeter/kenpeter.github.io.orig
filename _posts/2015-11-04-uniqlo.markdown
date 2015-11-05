@@ -7,11 +7,9 @@ sticky: true
 categories: misc 
 ---
 
-## The uniqlo website
-
 NOTE, this doesn't mean to embarrass anyone, but it is more like a treasure hunting game for me.
 
-### Site
+### The uniqlo website
 http://www.uniqlo.com/au
 
 ![alt text][uniqlo_au]
