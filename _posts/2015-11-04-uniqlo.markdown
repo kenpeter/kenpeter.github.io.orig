@@ -29,7 +29,7 @@ http://www.uniqlo.com/au
 
 * There is a page called special-ajax-page.js. "added by mahendra for validation effect 28 July 2015, script.aculo.us effects.js v1.8.2", so there is a developer called mahendra in uniqlo.
 
-* So the delivery service is in provision.
+* The image shows there are some hidden stuff. e.g. "The delivery service is in provision"
 
 ![alt text][uniqlo_hidden_delivery]
 
