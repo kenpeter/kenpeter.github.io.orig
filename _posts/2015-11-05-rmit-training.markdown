@@ -12,6 +12,7 @@ NOTE, this doesn't mean to embarrass anyone, but it is more like a treasure hunt
 ### The rmit training website
 https://www.rmittraining.com
 
+![alt text][rmit_training]
 
 ### Tech stack
 * Drupal 7
@@ -43,3 +44,4 @@ https://www.rmittraining.com
 
 * https://www.rmittraining.com/products-and-services == https://www.rmittraining.com/node/5
 
+[rmit_training]: /images/rmit_training.png
