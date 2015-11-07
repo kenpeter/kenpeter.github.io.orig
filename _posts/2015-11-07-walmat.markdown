@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "Dig into walmat website"
+date:   2015-11-05 17:00:45
+comments: true
+sticky: true
+categories: misc 
+---
+
+NOTE, this doesn't mean to embarrass anyone, but it is more like a treasure hunting game for me.
+
+### The walmat website
+http://www.walmart.com/
+
+### Tech stack
+* Backbone.js
+* Modernize.js
+* Moment.js
+
+
+### Interesting things
+
+#### script.js in crhome
+* There is a script.js, "A BIG Thanks to CrocoDillon for the help with this script.", http://crocodillon.com. He is a javascript freelancer.
+
+* The script.js contains innerWidth, outerWidth, http://stackoverflow.com/questions/17845027/what-is-difference-between-width-innerwidth-and-outerwidth-height-innerheight, 
+
+* clearTimtout(), clear setTimeout
+
+#### sugarjs
+
+* http://sugarjs.com/
+
+
+#### core_descriptor_util.js
+
+* http://www.walmart.com/__ssobj/static/core_descriptors_util.10004.js
+
+```
+function i(t, r, o, a, u, i) {
+	t && !/^(?:expires|max-age|path|domain|secure|HttpOnly)$/i.test(t) && ("object" == typeof r && (r = c(r)), e.cookie = n(t, r, o, a, u, i))
+}
+```
