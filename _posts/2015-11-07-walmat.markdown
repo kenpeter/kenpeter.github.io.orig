@@ -41,3 +41,37 @@ function i(t, r, o, a, u, i) {
 	t && !/^(?:expires|max-age|path|domain|secure|HttpOnly)$/i.test(t) && ("object" == typeof r && (r = c(r)), e.cookie = n(t, r, o, a, u, i))
 }
 ```
+
+#### hook.js
+
+* http://www.hlserve.com/Delivery/ClientPaths/Library/hook.js?iab=1&apiKey=8cfacc38-5f94-405d-ba8d-45db3941dd42
+
+* userhook.com
+
+* resv: "00293824-00d8-44af-8f99-641f62c927a3", so this is the GUID?
+
+
+```
+newGUID: function() {
+	return "xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx".replace(/[xy]/g, function(c) {
+        	var r = Math.random() * 16 | 0;
+                return (c == "x" ? r : (r & 3 | 8)).toString(16)
+	})
+}
+```
+
+####www.hlserve.com
+
+```
+hl_key = '8cfacc38-5f94-405d-ba8d-45db3941dd42';
+hl_api = 'www.hlserve.com';
+hl_beam = 'beam.hlserve.com';
+hl_cid = 96;
+hl_debug = false;
+hl_channel = 'web';
+```
+
+####A generated file
+* http://i5.walmartimages.com/dfw/63fd9f59-c72e/k2-_f8ebc211-28da-4c0b-b4a3-5f796f2b4af7.v1.js
+* http://i5.walmartimages.com, results 404: U
+* "/static/img/badges/mpaa_rating-r.png": "//i5.walmartimages.com/dfw/63fd9f59-4172/k2-_2e2a8c94-42d1-4784-83d9-1a47292ee4d6.v1.png", in json file. It means we have constant image file name 
